@@ -18,9 +18,6 @@
 
     <div class="login-page-background">
       <div class="login-page-form">
-        <% if $SiteConfig.SiteLogo %>
-          $SiteConfig.SiteLogo
-        <% else %>
           <h1 class="site-title">$SiteConfig.Title</h1>
           <% if $SiteConfig.Tagline %>
             <p class="site-tagline">$SiteConfig.Tagline</p>
