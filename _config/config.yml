@@ -1,0 +1,6 @@
+---
+Name: silverstripe-login-portal
+---
+Security:
+  template_main: SilverstripeLoginPortal
+

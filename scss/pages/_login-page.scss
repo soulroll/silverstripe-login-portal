@@ -1,0 +1,32 @@
+.login-page-background {
+  background-color: #eee;
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+.login-page-form {
+  width: 340px;
+  margin: 0 auto;
+  margin-top: 200px;
+  background-color: #fff;
+  padding: 30px;
+  border: 1px solid #d8dee2;
+}
+.login-page-back {
+  margin-top: 10px;
+  color: #eee;
+  display: block;
+  text-align: center;
+}
+.login-page-back-link {
+  color: #aaa;
+  &:hover {
+    color: #666;
+  }
+}
+#MemberLoginForm_LoginForm_action_dologin {
+  width: 100%;
+}
+#ForgotPassword {
+  text-align: right;
+}
